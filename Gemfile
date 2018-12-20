@@ -19,6 +19,7 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 gem "capybara"
 gem "poltergeist"
+gem "puma"
 gem "mini_magick"
 
 gem "dotenv"

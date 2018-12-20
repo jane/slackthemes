@@ -1,6 +1,7 @@
-- { colors: '#061B2C,#203849,#36c6b1,#FFFFFF,#203849,#ffffff,#FF8288,#FF8288', name: 'Dark Jane' }
-- { colors: '#5c554d,#31B6A2,#FE626A,#FFFFFF,#FE626A,#FFFFFF,#FF8188,#36C6B1', name: 'Soft Jane' }
-- { colors: '#ffffff,#fcfcfc,#36c6b1,#ffffff,#48d8c3,#061b2b,#36C6B1,#FF8288', name: 'White Jane' }
+- { colors: '#061B2C,#203849,#36c6b1,#FFFFFF,#203849,#ffffff,#FF8288,#FF8288', name: 'Jane Dark ' }
+- { colors: '#5c554d,#31B6A2,#FE626A,#FFFFFF,#FE626A,#FFFFFF,#FF8188,#36C6B1', name: 'Jane Soft' }
+- { colors: '#ffffff,#fcfcfc,#36c6b1,#ffffff,#48d8c3,#061b2b,#36C6B1,#FF8288', name: 'Jane White' }
 - { colors: '#000000,#f28e1b,#F28E1B,#000000,#4a5664,#ffffff,#F28E1B,#736e65', name: 'Halloween' }
 - { colors: '#423c33,#695d54,#b5865b,#ffff47,#000000,#ff8000,#fcf519,#dba167', name: 'Fall' }
 - { colors: '#185e40,#BA1C24,#780d0d,#ffffff,#ba1c24,#ffffff,#ab1a21,#780D0D', name: 'Christmas' }
+- { colors: '#333333,#1B5E48,#ab2e3d,#ffffff,#2d9a48,#ffffff,#1B5E48,#ab2e3d', name: 'Christmas Dark' }
